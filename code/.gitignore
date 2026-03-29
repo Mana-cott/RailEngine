@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# COMP 371
+.clj-kondo/
+.lsp/
+.cache/
+build/
+bin/
+*.exe
+*.o
